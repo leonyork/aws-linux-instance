@@ -1,4 +1,4 @@
-CURL_IMAGE=curlimages/curl:7.67.0
+CURL_IMAGE=curlimages/curl:7.69.1
 CHECK_IP_URL=http://checkip.amazonaws.com/
 
 DOCKER_COMPOSE_INFRA=docker-compose -f infra.docker-compose.yml
